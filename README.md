@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/699175079644495882?theme=dark&idleMessage=Idk" alt="Discord status">
+  <img src="https://lanyard.cnrad.dev/api/773849193587539968?idleMessage=Idk" alt="Discord status">
 </p>
 
 <br/>
