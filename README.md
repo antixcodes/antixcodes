@@ -4,7 +4,7 @@
 <h2 align="center">Antix // code, chaos & caffeine</h2>
 
 <p align="center">
-  <code>Developer</code> • <code>CTF Player</code> • <code>AI Explorer</code> • <code>Cyber Enthusiast</code>
+  <code>Python Developer</code> • <code>CTF Player</code> • <code>AI Explorer</code> • <code>Cyber Enthusiast</code>
 </p>
 
 <br/>
