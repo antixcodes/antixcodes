@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/antixcodes">GitHub</a> •
-  <a href="https://discord.com/users/699175079644495882">Discord</a> •
+  <a href="https://discord.com/users/773849193587539968">Discord</a> •
   <a href="shadowdevx@tech.me">Mail</a>
 </p>
 
@@ -19,6 +19,14 @@
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/773849193587539968?idleMessage=Idk" alt="Discord status">
+</p>
+
+<h3 align="center"> Stats </h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=antixcodes" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br/>
